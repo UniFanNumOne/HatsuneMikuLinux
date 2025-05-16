@@ -5,4 +5,8 @@
 
 https://github.com/supermariofps/hatsune-miku-windows-linux-cursors
 
+## Lüv icon pack
+
+https://github.com/Nitrux/luv-icon-theme
+
 
